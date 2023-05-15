@@ -122,3 +122,10 @@ Now, it's time to save what i just created so i can easily share with stakeholde
 ggsave('hotel_booking_chart.png')
 ```
 The last, this was a data visualization
+
+
+<img alt="chart" width="600" src="https://github.com/Syamabbas/hotel-bookings/blob/main/hotel_booking_chart.png">
+
+
+[Download R code](https://github.com/Syamabbas/hotel-bookings/blob/main/Hotel-bookings.R)<br>
+[Download R markdown](https://github.com/Syamabbas/hotel-bookings/blob/main/hotel-bookings.pdf)
