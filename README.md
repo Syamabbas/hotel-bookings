@@ -1,7 +1,7 @@
-# Project
+# 🕹Project
 Hotel Bookings with R
 
-## Scenario
+## 👨🏼‍💻Scenario
 
 As a junior data analyst for a hotel booking company, i have been creating visualizations in `R` with the `ggplot2`  package to share insights about my data with stakeholders. After creating a series of visualizations using `ggplot()`, `ggplot2` aesthetics, and filters, my stakeholder asks me to add annotations to my visualizations to help explain mine findings in a presentation. Luckily, `ggplot2` has annotation functions built in.
 
@@ -121,6 +121,8 @@ Now, it's time to save what i just created so i can easily share with stakeholde
 ```{r save your plot}
 ggsave('hotel_booking_chart.png')
 ```
+
+# ✨Result
 The last, this was a data visualization
 
 
